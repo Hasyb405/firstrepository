@@ -1,3 +1,3 @@
 #Header
 
-This is our GitHub Demo lecture.
+This is our GitHub Demo lecture!
